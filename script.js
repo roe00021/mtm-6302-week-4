@@ -79,4 +79,3 @@ $darkModeBtn.addEventListener('click',
         toggleDarkMode(event.target)
     }
 )
-
