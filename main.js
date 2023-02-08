@@ -171,3 +171,4 @@ $addBlogBtn.addEventListener('click', function () {
 //     const message = 'Welcome, ' + userName
 //     return message
 // }
+// note
